@@ -11,7 +11,7 @@ package Company;
 	/**
 	 * 社員番号
 	 */
-     private int id;
+        private int id;
 	
 	/**
 	 * 名前
