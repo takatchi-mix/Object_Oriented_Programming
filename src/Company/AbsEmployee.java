@@ -4,7 +4,7 @@ package Company;
  * 抽象社員クラス
  * @author xxx
  */
-public abstract class AbsEmployee {
+     public abstract class AbsEmployee {
 	 
 
 	/******** フィールド ******************************************/
@@ -44,7 +44,7 @@ public abstract class AbsEmployee {
 	/**
 	 * 情報表示（ID および 名前の表示）
 	 */
-    public void displayBasic() {
+        public void displayBasic() {
     	
     	System.out.println("ＩＤ：" + id);
 		System.out.println("名前：" + name);
